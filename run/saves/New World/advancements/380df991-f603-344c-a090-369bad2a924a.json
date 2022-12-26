@@ -1,0 +1,21 @@
+{
+  "tfc:world/root": {
+    "criteria": {
+      "in_game_condition": "2022-12-26 09:07:33 -0700"
+    },
+    "done": true
+  },
+  "tfc:world/adventuring_time": {
+    "criteria": {
+      "plains": "2022-12-26 09:07:32 -0700"
+    },
+    "done": false
+  },
+  "tfc:story/root": {
+    "criteria": {
+      "in_game_condition": "2022-12-26 09:07:33 -0700"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
