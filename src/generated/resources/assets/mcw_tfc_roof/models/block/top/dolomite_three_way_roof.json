@@ -1,0 +1,7 @@
+{
+  "parent": "mcwroofs:block/parent/three_way_roof",
+  "textures": {
+    "1_1_2": "tfc:block/rock/bricks/dolomite",
+    "particle": "tfc:block/rock/bricks/dolomite"
+  }
+}

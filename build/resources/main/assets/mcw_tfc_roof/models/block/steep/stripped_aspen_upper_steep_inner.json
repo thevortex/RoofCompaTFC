@@ -1,0 +1,7 @@
+{
+  "parent": "mcwroofs:block/parent/xx_upper_steep_inner",
+  "textures": {
+    "2": "tfc:block/wood/stripped_log/aspen",
+    "particle": "tfc:block/wood/stripped_log/aspen"
+  }
+}

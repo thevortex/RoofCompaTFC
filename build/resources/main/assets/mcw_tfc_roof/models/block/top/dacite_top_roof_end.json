@@ -1,0 +1,7 @@
+{
+  "parent": "mcwroofs:block/parent/top_roof_end",
+  "textures": {
+    "1_2": "tfc:block/rock/bricks/dacite",
+    "particle": "tfc:block/rock/bricks/dacite"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "mcwroofs:block/parent/xx_steep",
+  "textures": {
+    "2": "tfc:block/rock/bricks/granite",
+    "particle": "tfc:block/rock/bricks/granite"
+  }
+}

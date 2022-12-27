@@ -1,0 +1,7 @@
+{
+  "parent": "mcwroofs:block/parent/xx_upper_lower_inner",
+  "textures": {
+    "1_2": "tfc:block/rock/bricks/shale",
+    "particle": "tfc:block/rock/bricks/shale"
+  }
+}

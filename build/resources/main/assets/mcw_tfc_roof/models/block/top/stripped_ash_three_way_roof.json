@@ -1,0 +1,7 @@
+{
+  "parent": "mcwroofs:block/parent/three_way_roof",
+  "textures": {
+    "1_1_2": "tfc:block/wood/stripped_log/ash",
+    "particle": "tfc:block/wood/stripped_log/ash"
+  }
+}

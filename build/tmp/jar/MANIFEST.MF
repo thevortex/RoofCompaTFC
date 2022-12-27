@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: mcw_tfc_roof
+Specification-Vendor: thevortex
+Specification-Version: 1
+Implementation-Title: RoofCompaTFC
+Implementation-Version: 1.0-1.18.2-40.1.73
+Implementation-Vendor: thevortex
+Implementation-Timestamp: 2022-12-26T20:05:20-0700
+

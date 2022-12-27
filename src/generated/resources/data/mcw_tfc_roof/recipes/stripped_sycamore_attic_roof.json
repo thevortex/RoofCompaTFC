@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gl ",
+    "ls ",
+    "   "
+  ],
+  "key": {
+    "g": {
+      "item": "tfc:glue"
+    },
+    "l": [],
+    "s": {
+      "tag": "forge:glass"
+    }
+  },
+  "result": {
+    "item": "mcw_tfc_roof:stripped_sycamore_roof",
+    "count": 2
+  }
+}

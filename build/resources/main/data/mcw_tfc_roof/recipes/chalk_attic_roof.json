@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gl ",
+    "ls ",
+    "   "
+  ],
+  "key": {
+    "g": {
+      "item": "tfc:mortar"
+    },
+    "l": {
+      "item": "tfc:rock/bricks/chalk"
+    },
+    "s": {
+      "tag": "forge:glass"
+    }
+  },
+  "result": {
+    "item": "mcw_tfc_roof:chalk_attic_roof",
+    "count": 2
+  }
+}

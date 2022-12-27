@@ -1,0 +1,7 @@
+{
+  "parent": "mcwroofs:block/parent/roof",
+  "textures": {
+    "2": "tfc:block/rock/bricks/schist",
+    "particle": "tfc:block/rock/bricks/schist"
+  }
+}

@@ -25,6 +25,7 @@ public class DataGenerators {
 
         if(event.includeClient()) {
             generator.addProvider(new BlockModels(generator, fileHelper));
+
             generator.addProvider(new LangEntries(generator, RoofCompaTFC.MODID, "en_us"));
         }
 
@@ -32,7 +33,7 @@ public class DataGenerators {
             BlockTagsProvider blockTagsProvider = new BlockTags(generator, fileHelper);
             generator.addProvider(new ItemTags(generator, blockTagsProvider, fileHelper));
             generator.addProvider(blockTagsProvider);
-
+            generator.addProvider(new CraftingRecipes(generator));
             generator.addProvider(new LootTables(generator));
         }
     }

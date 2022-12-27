@@ -1,0 +1,7 @@
+{
+  "parent": "mcwroofs:block/parent/top_inner",
+  "textures": {
+    "1_2": "tfc:block/wood/stripped_log/douglas_fir",
+    "particle": "tfc:block/wood/stripped_log/douglas_fir"
+  }
+}

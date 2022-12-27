@@ -1,0 +1,7 @@
+{
+  "parent": "mcwroofs:block/parent/top_outer",
+  "textures": {
+    "1_2": "tfc:block/wood/log/rosewood",
+    "particle": "tfc:block/wood/log/rosewood"
+  }
+}
