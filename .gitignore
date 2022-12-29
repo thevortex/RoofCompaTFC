@@ -57,3 +57,4 @@ run/logs/debug-4.log.gz
 run/logs/debug-5.log.gz
 run/usercache.json
 src/generated/resources/.cache/cache
+/build/

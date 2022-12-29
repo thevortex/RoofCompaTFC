@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gl ",
+    "ll ",
+    "ls "
+  ],
+  "key": {
+    "g": {
+      "item": "tfc:glue"
+    },
+    "l": {
+      "item": "tfc:wood/stripped_log/kapok"
+    },
+    "s": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "mcw_tfc_roof:stripped_kapok_steep_roof",
+    "count": 4
+  }
+}

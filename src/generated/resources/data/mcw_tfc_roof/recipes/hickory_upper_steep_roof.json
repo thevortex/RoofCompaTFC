@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " l ",
+    "gl ",
+    "ls "
+  ],
+  "key": {
+    "g": {
+      "item": "tfc:glue"
+    },
+    "l": {
+      "item": "tfc:wood/log/hickory"
+    },
+    "s": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "mcw_tfc_roof:hickory_upper_steep_roof",
+    "count": 3
+  }
+}

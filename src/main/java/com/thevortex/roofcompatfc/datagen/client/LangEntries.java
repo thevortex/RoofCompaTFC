@@ -17,7 +17,7 @@ public class LangEntries extends LanguageProvider {
 
     @Override
     protected void addTranslations() {
-
+        add("itemGroup.tab_rctfc", "Roof Compat for TFC/Macaw");
         for (String log: list_wood) {
             for (String rooftype : list_rooftype) {
                 add("block." + RoofCompaTFC.MODID + "." + log.toLowerCase().replace(" ","_")+ "_" + rooftype.toLowerCase().replace(" ","_") , log + " " + rooftype);

@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "mcw_tfc_roof:granite_upper_lower_roof"
+    ]
+  },
+  "criteria": {
+    "has_item_granite_brick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tfc:rock/bricks/granite"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "mcw_tfc_roof:granite_upper_lower_roof"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item_granite_brick",
+      "has_the_recipe"
+    ]
+  ]
+}

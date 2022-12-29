@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "gll",
+    "lls"
+  ],
+  "key": {
+    "g": {
+      "item": "tfc:mortar"
+    },
+    "l": {
+      "item": "tfc:rock/bricks/diorite"
+    },
+    "s": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "mcw_tfc_roof:diorite_top_roof",
+    "count": 2
+  }
+}

@@ -24,7 +24,7 @@ public class RoofCompaTFC
     public static final String MODID = "mcw_tfc_roof";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
-    public static final TabBrTFC TAB_GROUP = new TabBrTFC("tab_fctfc");
+    public static final TabRTFC TAB_GROUP = new TabRTFC("tab_rctfc");
     public RoofCompaTFC()
     {
         // Register the setup method for modloading
@@ -68,9 +68,9 @@ public class RoofCompaTFC
     }
 
 
-    public static class TabBrTFC extends CreativeModeTab
+    public static class TabRTFC extends CreativeModeTab
     {
-        public TabBrTFC(String name)
+        public TabRTFC(String name)
         {
             super(name);
         }

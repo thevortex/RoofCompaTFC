@@ -9,7 +9,9 @@
     "g": {
       "item": "tfc:glue"
     },
-    "l": [],
+    "l": {
+      "item": "tfc:wood/stripped_log/white_cedar"
+    },
     "s": {
       "tag": "forge:glass"
     }

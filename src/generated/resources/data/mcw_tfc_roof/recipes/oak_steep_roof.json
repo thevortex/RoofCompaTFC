@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gl ",
+    "ll ",
+    "ls "
+  ],
+  "key": {
+    "g": {
+      "item": "tfc:glue"
+    },
+    "l": {
+      "item": "tfc:wood/log/oak"
+    },
+    "s": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "mcwroofs:oak_steep_roof",
+    "count": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "gll",
+    "lls"
+  ],
+  "key": {
+    "g": {
+      "item": "tfc:glue"
+    },
+    "l": {
+      "item": "tfc:wood/stripped_log/oak"
+    },
+    "s": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "mcwroofs:oak_planks_lower_roof",
+    "count": 4
+  }
+}

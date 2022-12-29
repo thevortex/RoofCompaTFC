@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " l ",
+    "gl ",
+    "ls "
+  ],
+  "key": {
+    "g": {
+      "item": "tfc:mortar"
+    },
+    "l": {
+      "item": "tfc:rock/bricks/schist"
+    },
+    "s": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "mcw_tfc_roof:schist_upper_steep_roof",
+    "count": 3
+  }
+}
