@@ -6,13 +6,13 @@
     ]
   },
   "criteria": {
-    "has_item_stripped_stripped_spruce_log": {
+    "has_item_stripped_spruce_log": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "minecraft:air"
+              "tfc:wood/stripped_log/spruce"
             ]
           }
         ]
@@ -27,7 +27,7 @@
   },
   "requirements": [
     [
-      "has_item_stripped_stripped_spruce_log",
+      "has_item_stripped_spruce_log",
       "has_the_recipe"
     ]
   ]

@@ -698,5 +698,6 @@
   "item.mcw_tfc_roof.willow_steep_roof": "Willow Steep Roof",
   "item.mcw_tfc_roof.willow_top_roof": "Willow Top Roof",
   "item.mcw_tfc_roof.willow_upper_lower_roof": "Willow Upper Lower Roof",
-  "item.mcw_tfc_roof.willow_upper_steep_roof": "Willow Upper Steep Roof"
+  "item.mcw_tfc_roof.willow_upper_steep_roof": "Willow Upper Steep Roof",
+  "itemGroup.tab_rctfc": "Roof Compat for TFC/Macaw"
 }

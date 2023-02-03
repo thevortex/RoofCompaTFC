@@ -35,6 +35,8 @@ public class DataGenerators {
             generator.addProvider(blockTagsProvider);
             generator.addProvider(new CraftingRecipes(generator));
             generator.addProvider(new LootTables(generator));
+            generator.addProvider(new StoneLootTables(generator));
+            generator.addProvider(new StrippedLootTables(generator));
         }
     }
 }

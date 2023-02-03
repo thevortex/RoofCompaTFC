@@ -6,13 +6,13 @@
     ]
   },
   "criteria": {
-    "has_item_stripped_stripped_oak_log": {
+    "has_item_stripped_oak_log": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "minecraft:air"
+              "tfc:wood/stripped_log/oak"
             ]
           }
         ]
@@ -27,7 +27,7 @@
   },
   "requirements": [
     [
-      "has_item_stripped_stripped_oak_log",
+      "has_item_stripped_oak_log",
       "has_the_recipe"
     ]
   ]

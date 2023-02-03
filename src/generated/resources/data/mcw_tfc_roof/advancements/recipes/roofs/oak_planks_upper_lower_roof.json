@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "mcw_tfc_roof:oak_planks_upper_lower_roof"
+    ]
+  },
+  "criteria": {
+    "has_item_stripped_oak_log": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tfc:wood/stripped_log/oak"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "mcw_tfc_roof:oak_planks_upper_lower_roof"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_item_stripped_oak_log",
+      "has_the_recipe"
+    ]
+  ]
+}

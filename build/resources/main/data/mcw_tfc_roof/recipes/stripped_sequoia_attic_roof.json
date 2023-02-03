@@ -9,7 +9,9 @@
     "g": {
       "item": "tfc:glue"
     },
-    "l": [],
+    "l": {
+      "item": "tfc:wood/stripped_log/sequoia"
+    },
     "s": {
       "tag": "forge:glass"
     }

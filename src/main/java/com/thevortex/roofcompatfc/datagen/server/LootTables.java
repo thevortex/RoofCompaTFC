@@ -3,6 +3,8 @@ package com.thevortex.roofcompatfc.datagen.server;
 import com.google.common.collect.ImmutableList;
 import com.mojang.datafixers.util.Pair;
 import com.thevortex.roofcompatfc.block.ModRegistry;
+import com.thevortex.roofcompatfc.block.ModStoneRegistry;
+import com.thevortex.roofcompatfc.block.ModStrippedRegistry;
 import net.minecraft.data.DataGenerator;
 import net.minecraft.data.loot.BlockLoot;
 import net.minecraft.data.loot.LootTableProvider;
@@ -40,6 +42,7 @@ public class LootTables extends LootTableProvider {
         {
             getKnownBlocks().forEach(this::dropSelf);
 
+
         }
 
 
@@ -52,6 +55,7 @@ public class LootTables extends LootTableProvider {
                     .collect(Collectors.toList());
 
         }
+
 
     }
 
